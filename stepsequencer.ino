@@ -1,4 +1,4 @@
-// AFIWY
+// Anonymous Fox Is Watching YOU!
 
 int buttonPin[4] = { 36, 35, 34, 33 };
 int ledPin[4] = { 23, 22, 21, 20 };
